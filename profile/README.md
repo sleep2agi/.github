@@ -1,26 +1,21 @@
 # sleep2agi
 
-> 在你睡觉的时候，AI Agent 在自进化
-> While you sleep, AI agents evolve
+> **Sleep to AGI — Where agents never sleep**
 
-帮助普通人在 AGI 时代实现跨越。我们构建 AI Agent 自进化工具，让 AI Coding Agent 持续进化、协作编排、自主创作。
+## 🚀 Projects
 
-Empowering everyone to leap into the AGI era. We build self-evolving AI agent tools for continuous improvement, orchestration, and autonomous creation.
+| Repo | Description | Status |
+|------|-------------|--------|
+| [agent-orchestra](https://github.com/sleep2agi/agent-orchestra) | Multi-agent orchestration framework — Commander MCP Server | 🔧 Design |
+| [evoskills](https://github.com/sleep2agi/evoskills) | Self-evolving skill system for AI coding agents | 📚 Docs |
+| [claude-jimeng-skills](https://github.com/sleep2agi/claude-jimeng-skills) | Dreamina CLI × Claude Code — AI video generation | ✅ Ready |
 
-## 🚀 核心项目 / Projects
+## 💡 Philosophy
 
-| 项目 | 简介 | 状态 |
-|------|------|------|
-| [agent-orchestra](https://github.com/sleep2agi/agent-orchestra) | 多 AI Agent 编排框架 — Commander MCP Server 设计 | 🔧 设计完成 |
-| [evoskills](https://github.com/sleep2agi/evoskills) | AI Coding Agent 自进化技能系统 — Codex + Claude Code | 📚 文档完善 |
-| [claude-jimeng-skills](https://github.com/sleep2agi/claude-jimeng-skills) | 即梦 Dreamina CLI × Claude Code Skills | ✅ 可用 |
+- **Self-Evolution** — Agents that continuously improve their own skills
+- **Multi-Model** — Claude · Codex · MiniMax · Qwen — best of each, orchestrated
+- **Open Source** — Free tools for everyone
 
-## 💡 理念 / Philosophy
-
-- **自进化 Self-Evolution**：AI Agent 不只是执行工具，而是能持续改进自身技能的系统
-- **多模型协作 Multi-Model**：Claude / Codex / MiniMax / Qwen 各取所长，编排协作
-- **开源共建 Open Source**：所有工具开源免费，欢迎贡献
-
-## 🛠️ 技术栈 / Tech Stack
+## 🛠️ Stack
 
 Claude Code · OpenAI Codex · MCP Protocol · Dreamina CLI · Bun/TypeScript · Remotion
