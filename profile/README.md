@@ -1,3 +1,5 @@
+![Sleep2AGI](https://raw.githubusercontent.com/sleep2agi/.github/main/profile/cover.png)
+
 # sleep2agi
 
 > **Sleep to AGI — Where agents never sleep**
