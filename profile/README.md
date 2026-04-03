@@ -31,3 +31,9 @@
 ## Stack
 
 Claude Code · OpenAI Codex · MCP Protocol · Dreamina CLI · Bun/TypeScript · Remotion
+
+## Sponsors
+
+> 欢迎各大厂商赞助 Tokens，助力开源 AI Agent 生态建设。
+
+联系方式：[GitHub Discussions](https://github.com/orgs/sleep2agi/discussions) · [Issues](https://github.com/sleep2agi/.github/issues)
