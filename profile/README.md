@@ -1,4 +1,4 @@
-![Sleep2AGI](https://raw.githubusercontent.com/sleep2agi/.github/main/profile/cover.png)
+<img width="2019" height="779" alt="image" src="https://github.com/user-attachments/assets/6f3473fe-df4e-426f-b6d9-d1e1915c7f93" />
 
 # sleep2agi
 
